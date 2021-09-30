@@ -28,7 +28,7 @@
 
 
 ```html
-<div class=dragscroll>
+<div class="dragscroll">
     Big text goes here...
 </div>
 ```
