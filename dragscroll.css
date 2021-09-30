@@ -1,0 +1,8 @@
+.dragscroll {
+    cursor: grab;
+    user-select: none;
+}
+.dragscroll:active {
+    cursor: grabbing;
+}
+/*? Author : https://github.com/MohammadAliHeidary */
